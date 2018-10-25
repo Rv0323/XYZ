@@ -28,7 +28,8 @@ package pattern;
 			G obj = new G();
 			obj .test1();
 			System.out.println("main end");
-		}}
+		}
+	 	}
 	 
 	 
 	 
